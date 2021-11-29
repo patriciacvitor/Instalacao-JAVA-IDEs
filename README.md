@@ -23,6 +23,7 @@ Guia de instalação de IDEs JAVA
   ⭐ Curta o repositório clicando na estrela. <br>
   🔱 Dê Fork no repositório para ter uma cópia dele. <br>
   🔗 Compartilhe com quem precisa ver esse conteúdo. <br>
+  🛑 Envie uma mensagem se encontrar algum problema. <br>
 </div>
 
 
@@ -43,7 +44,9 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 
 
 
+## LINUX
 
+⚠️ EM CONSTRUÇÃO!!! 🚧
 
 
 
@@ -59,18 +62,6 @@ IDEs mais conhecidas para desenvolvimento Java: Eclipse IDE e IntelliJ IDEA IDE 
 
 
 
-<h2> 🤝 Contribuindo </h2>
-
-Este repositório foi criado para fins de estudo, então contribua com ele.
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
-
-Se possível:
-
-⭐️  Star o projeto
-
-🐛 Encontrar e relatar issues
-
-
 ------------
 
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+Feito com 💟 e ☕ por [Patrícia Vitor](https://www.linkedin.com/in/patriciacvitor/).
