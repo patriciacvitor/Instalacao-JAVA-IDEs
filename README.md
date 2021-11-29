@@ -44,10 +44,20 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 
 
 
+
 ## LINUX
 
 ⚠️ EM CONSTRUÇÃO!!! 🚧
 
+
+
+
+## WINDOWS
+
+🔵 Abra o cmd:
+🔹 Na barra de pesquisa digite "cmd" e aperte Enter.
+🔹 Ou aperte Tecla Windows + R, digite "cmd" e aperte OK.
+📍 Isso abrirá o terminal do Windows na sua pasta de usuário: C:\Users\seu-usuario
 
 
 <h1>Dominando IDEs Java </h1>
