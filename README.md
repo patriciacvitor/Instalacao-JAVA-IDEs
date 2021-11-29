@@ -18,10 +18,11 @@ Guia de instalação de IDEs JAVA
 
 
 <div align="center">
-  <h2> :octocat: Contribua se gostar do conteúdo: </h2>
-  ⭐ Curta o repositório clicando na estrela.
-  🔱 Dê Fork no repositório para ter uma cópia dele.
-  🔗 Compartilhe com quem precisa ver esse conteúdo.
+  <h2> :octocat: Contribua se gostar do conteúdo! ⚠️ </h2>
+	Este conteúdo foi criado para ajudar pessoas então, se possível, contribua também: <br><br>
+  ⭐ Curta o repositório clicando na estrela. <br>
+  🔱 Dê Fork no repositório para ter uma cópia dele. <br>
+  🔗 Compartilhe com quem precisa ver esse conteúdo. <br>
 </div>
 
 
