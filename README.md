@@ -52,12 +52,12 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 
 
 
-## WINDOWS
+# WINDOWS
 
-### :coffee: Instalação do JDK
+## :coffee: Instalação do JDK
 
 <details>
-	<summary> ⬜ 1. Abra o cmd e verifique se o Java está instalado e, caso esteja, a versão do Java. </summary>
+	<summary> :izakaya_lantern: 1. Abra o cmd e verifique se o Java está instalado e, caso esteja, a versão do Java. </summary>
 <p>
 
 🔹 1.1. Na barra de pesquisa digite "cmd" e aperte Enter. / Ou aperte Tecla Windows + R, digite "cmd" e aperte OK.
@@ -74,7 +74,7 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 </details>
 
 <details>
-	<summary> ⬜ 2. Faça download do JDK (Java Development Kit ou Kit de Desenvolvimento Java) da Azul. </summary>
+	<summary> :izakaya_lantern: 2. Faça download do JDK (Java Development Kit ou Kit de Desenvolvimento Java) da Azul. </summary>
 <p>
 
 🔹 2.1. Entre no site da <a href="https://www.azul.com/downloads/?package=jdk" target="_blank"><strong>Azul</strong></a>
@@ -93,7 +93,7 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 </details>
 
 <details>
-	<summary> ⬜ 3. Crie a pasta "Java" caso não exista. </summary>
+	<summary> :izakaya_lantern: 3. Crie a pasta "Java" caso não exista. </summary>
 <p>
 
 🔹 3.1. Abra o Explorador de Arquivos do Windows e vá até a pasta C:\Arquivos de Programas ou C:\Program Files
@@ -106,7 +106,7 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 </details>
 
 <details>
-	<summary> ⬜ 4. Descompacte o arquivo na pasta correta. </summary>
+	<summary> :izakaya_lantern: 4. Descompacte o arquivo na pasta correta. </summary>
 <p>
 
 🔹 4.1. No Explorador de Arquivos, vá até a pasta de downloads em: Este Computador > Downloads
@@ -123,7 +123,7 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 </details>
 
 <details>
-	<summary> ⬜ 5. Configure as variáveis de ambiente do sistema. </summary>
+	<summary> :izakaya_lantern: 5. Configure as variáveis de ambiente do sistema. </summary>
 <p>
 
 🔹 5.1. Na barra de pesquisa digite "var" e aperte Enter ou clique em "Editar as variáveis de ambiente do sistema".
@@ -155,8 +155,13 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 </p>
 </details>
 
+---
+
+## :coffee: Instalação do Eclipse
+
+
 <details>
-	<summary> ⬜ 6. Repita o passo 1 para verificar se o Java foi instalado corretamente. </summary>
+	<summary> :izakaya_lantern: 6. Repita o passo 1 para verificar se o Java foi instalado corretamente. </summary>
 <p>
 
 	📍 Caso tenha sido instalado corretamente, ao digitar o comando "java --version" no cmd,
@@ -175,7 +180,6 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 
 
 
-
 ### Instalação do Eclipse
 
 <details>
@@ -183,6 +187,10 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 <p>
 
 🔹 1.1. 
+
+🔹 
+  
+🔹 
 
 📍 
 
@@ -194,61 +202,16 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 </p>
 </details>
 
-⬜ 
 
-🔹 
   
-🔹 
   
-	📍 
-
-	🔹 
-
-	📍 
-
-
-⬜ 
-
-🔹 Clique na barra de endereço da pasta e copie o caminho dela (C:\Program Files\Java).
-
-🔹 
-
-🔹 
-
-🔹 
-
-🔹 
-
-🔹 
-
-⬜ 
-
-🔹 
-
-🔹 
-
-🔹 
-
-🔹 
-
-🔹 
-
-🔹 <strong>3.</strong> Vá no drive C://Arquivo de Programas
-
-🔹 <strong>4.</strong> Caso não tenha um diretório com o nome Java, crie
-
-🔹 <strong>5.</strong>  Entre neste diretório e descompacte o download do zip JDK Zulu 11.0.11+9 neste diretório
-
-🔹 <strong>6.</strong> Vamos configurar o ambiente JAVA_HOME:
-
-<h1>Dominando IDEs Java </h1>
-
+<!-- 
 <div align="center">	
 ▶️ <a href="https://www.youtube.com/watch?v=wcIm916zk9w&lc=UgwDmJkoCf5M9Pf66ll4AaABAg">Como criar um Access Token para se conectar com o GitHub</a></div>
-	
-<h2> 🚦 Guia </h2>
+	 -->
 
-IDEs mais conhecidas para desenvolvimento Java: Eclipse IDE e IntelliJ IDEA IDE <br>
+
+<!-- IDEs mais conhecidas para desenvolvimento Java: Eclipse IDE e IntelliJ IDEA IDE <br> -->
 
 
 
