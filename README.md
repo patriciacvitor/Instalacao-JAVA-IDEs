@@ -54,9 +54,9 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 
 ## WINDOWS
 
-Verifique se existe o Java instalado:
-
-⬜ 1. Abra o cmd e verifique a versão do Java:
+<details>
+	<summary> ⬜ 1. Abra o cmd e verifique se o Java está instalado e, caso esteja, a versão do Java. </summary>
+<p>
 
 🔹 1.1. Na barra de pesquisa digite "cmd" e aperte Enter. / Ou aperte Tecla Windows + R, digite "cmd" e aperte OK.
   
@@ -66,7 +66,14 @@ Verifique se existe o Java instalado:
 
 📍 Caso o Java não esteja instalado, aparecerá uma mensagem de erro. E caso esteja instalado, aparecerá a versão instalada.
 
-⬜ 2. Faça download do JDK (Java Development Kit ou Kit de Desenvolvimento Java) da Azul:
+---
+	
+</p>
+</details>
+
+<details>
+	<summary> ⬜ 2. Faça download do JDK (Java Development Kit ou Kit de Desenvolvimento Java) da Azul. </summary>
+<p>
 
 🔹 2.1. Entre no site da <a href="https://www.azul.com/downloads/?package=jdk"><strong>Azul</strong></a>
 
@@ -77,12 +84,46 @@ Verifique se existe o Java instalado:
 ⚠️ [Mas como saber se é 32 ou 64bits?]
 
 🔹 2.4. Faça download do arquivo .zip do JDK 11 (LTS).
+	
+---
 
-⬜ 3. Crie a pasta "Java" caso não exista:
+</p>
+</details>
+
+<details>
+	<summary> ⬜ 3. Crie a pasta "Java" caso não exista. </summary>
+<p>
 
 🔹 3.1. Abra o Explorador de Arquivos do Windows e vá até a pasta C:\Arquivos de Programas ou C:\Program Files
 
 🔹 3.2. Se não houver a pasta "Java" nesse diretório, crie (Botão direito do mouse > Novo > Pasta).
+	
+---
+
+</p>
+</details>
+
+<details>
+	<summary> ⬜  </summary>
+<p>
+
+	🔹 
+  
+	📍 
+
+	🔹 
+
+	📍 
+
+</p>
+</details>
+
+
+
+⬜ 
+
+
+
 
 ⬜ 
 
