@@ -97,6 +97,8 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 🔹 3.1. Abra o Explorador de Arquivos do Windows e vá até a pasta C:\Arquivos de Programas ou C:\Program Files
 
 🔹 3.2. Se não houver a pasta "Java" nesse diretório, crie (Botão direito do mouse > Novo > Pasta).
+
+🔹 3.3. 
 	
 ---
 
@@ -104,25 +106,67 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 </details>
 
 <details>
-	<summary> ⬜  </summary>
+	<summary> ⬜ 4. Descompacte o arquivo na pasta correta. </summary>
 <p>
 
-	🔹 
+🔹 4.1. No Explorador de Arquivos, vá até a pasta de downloads em: Este Computador > Downloads
+  
+🔹 4.2. Clique com o botão direito sobre o arquivo baixado do JDK Zulu e clique em "Extrair tudo" (ou "Extract files").
+  
+🔹 4.3. Ache a pasta "Java" que está em "Arquivos de Programas" (C:\Program Files\Java) e descompacte o arquivo .zip do JDK Zulu 11 dentro dela.
+	
+🔹 4.4. Entre na pasta em que você descompactou o JDK (C:\Program Files\Java\zulu11...) e copie o endereço dela.
+
+---
+	
+</p>
+</details>
+
+<details>
+	<summary> ⬜ 5. Configure as variáveis de ambiente do sistema. </summary>
+<p>
+
+🔹 5.1. Na barra de pesquisa digite "var" e aperte Enter ou clique em "Editar as variáveis de ambiente do sistema".
+  
+📍 Isso abrirá a janela de Propriedades do Sistema.
+
+🔹 5.2. Na aba "Avançado", clique em "Variáveis de Ambiente".
+	
+📍 Isso abrirá a janela de Variáveis de Ambiente.
+
+🔹 5.3. Na janela "Variáveis de Ambiente", em "Variáveis do sistema", clique em "Novo".
+
+📍 Isso abrirá a janela de Nova Variável do Sistema.
+  
+🔹 5.4. Na janela de Nova Variável do Sistema, em "Nome da variável" digite "JAVA_HOME" e em "Valor da variável" cole o endereço da pasta que você copiou (no passo 4.4) e aperte OK.
+
+🔹 5.5. Na janela "Variáveis de Ambiente", em "Variáveis do sistema", clique em "Path" > Editar.
+
+📍 Isso abrirá a janela de Editar a variável de ambiente.
+	
+🔹 5.6. Clique em "Novo" e cole o endereço que você copiou no passo 4.4 e acrescente no final "\bin" (ficará algo como C:\Program Files\Java\zulu11.52.13-ca-jdk11.0.13-win_x64\bin).
+	Depois clique em "Mover para cima" até que chegue no topo e clique em OK.
+	
+🔹 5. 
+	
+🔹 5.
+	
+---
+	
+</p>
+</details>
+
+⬜ 
+
+🔹 
+  
+🔹 
   
 	📍 
 
 	🔹 
 
 	📍 
-
-</p>
-</details>
-
-
-
-⬜ 
-
-
 
 
 ⬜ 
