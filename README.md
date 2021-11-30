@@ -155,11 +155,6 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 </p>
 </details>
 
----
-
-## :coffee: Instalação do Eclipse
-
-
 <details>
 	<summary> :izakaya_lantern: 6. Repita o passo 1 para verificar se o Java foi instalado corretamente. </summary>
 <p>
@@ -177,6 +172,12 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 </p>
 </details>
 
+
+
+
+---
+
+## :coffee: Instalação do Eclipse
 
 
 
