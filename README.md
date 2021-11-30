@@ -54,7 +54,7 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 
 ## WINDOWS
 
-### Instalação do JDK
+### :coffee: Instalação do JDK
 
 <details>
 	<summary> ⬜ 1. Abra o cmd e verifique se o Java está instalado e, caso esteja, a versão do Java. </summary>
@@ -176,26 +176,18 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 
 
 
-
+### Instalação do Eclipse
 
 <details>
-	<summary> ⬜ 1.  </summary>
+	<summary> ⬜ 1.   </summary>
 <p>
 
-🔹 1.1. Na barra de pesquisa digite "var" e aperte Enter ou clique em "Editar as variáveis de ambiente do sistema".
-  
-📍 Isso abrirá a janela de Propriedades do Sistema.
+🔹 1.1. 
+
+📍 
 
 
-Microsoft Windows [versão 10.0.19043.1288]
-(c) Microsoft Corporation. Todos os direitos reservados.
 
-C:\Users\ASUS>java --version
-openjdk 11.0.13 2021-10-19 LTS
-OpenJDK Runtime Environment Zulu11.52+13-CA (build 11.0.13+8-LTS)
-OpenJDK 64-Bit Server VM Zulu11.52+13-CA (build 11.0.13+8-LTS, mixed mode)
-
-C:\Users\ASUS>
 
 ---
 	
