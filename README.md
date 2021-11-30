@@ -75,7 +75,7 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 	<summary> ⬜ 2. Faça download do JDK (Java Development Kit ou Kit de Desenvolvimento Java) da Azul. </summary>
 <p>
 
-🔹 2.1. Entre no site da <a href="https://www.azul.com/downloads/?package=jdk"><strong>Azul</strong></a>
+🔹 2.1. Entre no site da <a href="https://www.azul.com/downloads/?package=jdk" target="_blank"><strong>Azul</strong></a>
 
 🔹 2.2. Clique em "Choose your download" na página inicial.
 
