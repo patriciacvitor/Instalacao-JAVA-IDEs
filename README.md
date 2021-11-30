@@ -144,13 +144,59 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 
 📍 Isso abrirá a janela de Editar a variável de ambiente.
 	
-🔹 5.6. Clique em "Novo" e cole o endereço que você copiou no passo 4.4 e acrescente no final "\bin" (ficará algo como C:\Program Files\Java\zulu11.52.13-ca-jdk11.0.13-win_x64\bin).
-	Depois clique em "Mover para cima" até que chegue no topo e clique em OK.
+🔹 5.6. Clique em "Novo", cole o endereço que você copiou no passo 4.4 e acrescente no final dele "\bin".
 	
-🔹 5. 
+📍 Ficará algo como C:\Program Files\Java\zulu11.52.13-ca-jdk11.0.13-win_x64\bin
 	
-🔹 5.
+Depois clique em "Mover para cima" até que chegue no topo e clique em OK.
 	
+---
+	
+</p>
+</details>
+
+<details>
+	<summary> ⬜ 6. Repita o passo 1 para verificar se o Java foi instalado corretamente. </summary>
+<p>
+
+	📍 Caso tenha sido instalado corretamente, ao digitar o comando "java --version" no cmd,
+	deve aparecer algo como:
+	
+	C:\Users\ASUS>java --version
+	openjdk 11.0.13 2021-10-19 LTS
+	OpenJDK Runtime Environment Zulu11.52+13-CA (build 11.0.13+8-LTS)
+	OpenJDK 64-Bit Server VM Zulu11.52+13-CA (build 11.0.13+8-LTS, mixed mode)
+
+---
+	
+</p>
+</details>
+
+
+
+
+
+
+
+<details>
+	<summary> ⬜ 6. Repita o passo 1 para verificar se o Java foi instalado corretamente. </summary>
+<p>
+
+🔹 5.1. Na barra de pesquisa digite "var" e aperte Enter ou clique em "Editar as variáveis de ambiente do sistema".
+  
+📍 Isso abrirá a janela de Propriedades do Sistema.
+
+
+Microsoft Windows [versão 10.0.19043.1288]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\ASUS>java --version
+openjdk 11.0.13 2021-10-19 LTS
+OpenJDK Runtime Environment Zulu11.52+13-CA (build 11.0.13+8-LTS)
+OpenJDK 64-Bit Server VM Zulu11.52+13-CA (build 11.0.13+8-LTS, mixed mode)
+
+C:\Users\ASUS>
+
 ---
 	
 </p>
