@@ -77,7 +77,7 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 	<summary> :izakaya_lantern: 2. Faça download do JDK (Java Development Kit ou Kit de Desenvolvimento Java) da Azul. </summary>
 <p>
 
-🔹 2.1. Entre no site da <a href="https://www.azul.com/downloads/?package=jdk" target="_blank"><strong>Azul</strong></a>
+🔹 2.1. Entre no site da <a href="https://www.azul.com/downloads/?package=jdk" target="_blank"><strong> AZUL </strong></a>
 
 🔹 2.2. Clique em "Choose your download" na página inicial.
 
@@ -183,7 +183,7 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 	<summary> :izakaya_lantern: 1.  </summary>
 <p>
 
-🔹 1.1. 
+🔹 1.1. Entre no site do <a href="https://www.eclipse.org/downloads/" target="_blank"><strong> ECLIPSE </strong></a>
   
 📍 
 
@@ -197,10 +197,10 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 </details>
 
 <details>
-	<summary> :izakaya_lantern: 1.   </summary>
+	<summary> :izakaya_lantern: 2.   </summary>
 <p>
 
-🔹 1.1. 
+🔹 2.1. 
 
 🔹 
   
