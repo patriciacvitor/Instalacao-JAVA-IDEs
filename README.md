@@ -54,11 +54,71 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 
 ## WINDOWS
 
-🔵 Abra o cmd:
+Verifique se existe o Java instalado:
+
+⬜ Abra o cmd:
+
 🔹 Na barra de pesquisa digite "cmd" e aperte Enter.
+  
 🔹 Ou aperte Tecla Windows + R, digite "cmd" e aperte OK.
+  
 📍 Isso abrirá o terminal do Windows na sua pasta de usuário: C:\Users\seu-usuario
 
+🔹 Digite "java --version" e aperte Enter.
+
+📍 Caso o Java não esteja instalado, aparecerá uma mensagem de erro. E caso esteja instalado, aparecerá a versão instalada.
+
+⬜ Faça download do JDK (Java Development Kit ou Kit de Desenvolvimento Java) da Azul:
+
+🔹 Entre no site <a href="https://www.azul.com/downloads/?package=jdk"><strong>Azul</strong></a>
+
+🔹 Clique em "Choose your download" na página inicial.
+
+🔹 Procure por "Java 11 (LTS)" para Windows de acordo com seu sistema operacional ("x86 32-bit ou x86 64-bit).
+
+⚠️ [Mas como saber se é 32 ou 64bits?]
+
+🔹 Faça download do arquivo .zip do JDK 11 (LTS).
+
+⬜ Crie a pasta "Java" caso não exista:
+
+🔹 Abra o Explorador de Arquivos do Windows e vá até a pasta C:\Arquivos de Programas ou C:\Program Files
+
+🔹 Se não houver a pasta "Java" nesse diretório, crie (Botão direito do mouse > Novo > Pasta).
+
+⬜ 
+
+🔹 Clique na barra de endereço da pasta e copie o caminho dela (C:\Program Files\Java).
+
+🔹 
+
+🔹 
+
+🔹 
+
+🔹 
+
+🔹 
+
+⬜ 
+
+🔹 
+
+🔹 
+
+🔹 
+
+🔹 
+
+🔹 
+
+🔹 <strong>3.</strong> Vá no drive C://Arquivo de Programas
+
+🔹 <strong>4.</strong> Caso não tenha um diretório com o nome Java, crie
+
+🔹 <strong>5.</strong>  Entre neste diretório e descompacte o download do zip JDK Zulu 11.0.11+9 neste diretório
+
+🔹 <strong>6.</strong> Vamos configurar o ambiente JAVA_HOME:
 
 <h1>Dominando IDEs Java </h1>
 
