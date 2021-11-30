@@ -56,35 +56,33 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 
 Verifique se existe o Java instalado:
 
-⬜ Abra o cmd:
+⬜ 1. Abra o cmd e verifique a versão do Java:
 
-🔹 Na barra de pesquisa digite "cmd" e aperte Enter.
-  
-🔹 Ou aperte Tecla Windows + R, digite "cmd" e aperte OK.
+🔹 1.1. Na barra de pesquisa digite "cmd" e aperte Enter. / Ou aperte Tecla Windows + R, digite "cmd" e aperte OK.
   
 📍 Isso abrirá o terminal do Windows na sua pasta de usuário: C:\Users\seu-usuario
 
-🔹 Digite "java --version" e aperte Enter.
+🔹 1.2. Digite "java --version" e aperte Enter.
 
 📍 Caso o Java não esteja instalado, aparecerá uma mensagem de erro. E caso esteja instalado, aparecerá a versão instalada.
 
-⬜ Faça download do JDK (Java Development Kit ou Kit de Desenvolvimento Java) da Azul:
+⬜ 2. Faça download do JDK (Java Development Kit ou Kit de Desenvolvimento Java) da Azul:
 
-🔹 Entre no site <a href="https://www.azul.com/downloads/?package=jdk"><strong>Azul</strong></a>
+🔹 2.1. Entre no site da <a href="https://www.azul.com/downloads/?package=jdk"><strong>Azul</strong></a>
 
-🔹 Clique em "Choose your download" na página inicial.
+🔹 2.2. Clique em "Choose your download" na página inicial.
 
-🔹 Procure por "Java 11 (LTS)" para Windows de acordo com seu sistema operacional ("x86 32-bit ou x86 64-bit).
+🔹 2.3. Procure por "Java 11 (LTS)" para Windows de acordo com seu sistema operacional ("x86 32-bit ou x86 64-bit).
 
 ⚠️ [Mas como saber se é 32 ou 64bits?]
 
-🔹 Faça download do arquivo .zip do JDK 11 (LTS).
+🔹 2.4. Faça download do arquivo .zip do JDK 11 (LTS).
 
-⬜ Crie a pasta "Java" caso não exista:
+⬜ 3. Crie a pasta "Java" caso não exista:
 
-🔹 Abra o Explorador de Arquivos do Windows e vá até a pasta C:\Arquivos de Programas ou C:\Program Files
+🔹 3.1. Abra o Explorador de Arquivos do Windows e vá até a pasta C:\Arquivos de Programas ou C:\Program Files
 
-🔹 Se não houver a pasta "Java" nesse diretório, crie (Botão direito do mouse > Novo > Pasta).
+🔹 3.2. Se não houver a pasta "Java" nesse diretório, crie (Botão direito do mouse > Novo > Pasta).
 
 ⬜ 
 
