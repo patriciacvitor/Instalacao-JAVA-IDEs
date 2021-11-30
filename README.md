@@ -40,7 +40,7 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
   
 - [x] Computador com sistema operacional Windows e/ou Linux
 
-- [x] Conta no GitHub
+<!-- - [x] Conta no GitHub -->
 
 
 
@@ -53,6 +53,8 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 
 
 ## WINDOWS
+
+### Instalação do JDK
 
 <details>
 	<summary> ⬜ 1. Abra o cmd e verifique se o Java está instalado e, caso esteja, a versão do Java. </summary>
@@ -97,8 +99,6 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 🔹 3.1. Abra o Explorador de Arquivos do Windows e vá até a pasta C:\Arquivos de Programas ou C:\Program Files
 
 🔹 3.2. Se não houver a pasta "Java" nesse diretório, crie (Botão direito do mouse > Novo > Pasta).
-
-🔹 3.3. 
 	
 ---
 
@@ -148,7 +148,7 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 	
 📍 Ficará algo como C:\Program Files\Java\zulu11.52.13-ca-jdk11.0.13-win_x64\bin
 	
-Depois clique em "Mover para cima" até que chegue no topo e clique em OK.
+Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já pode fechar as janelas de Variáveis de Ambiente e Propriedades do Sistema.)
 	
 ---
 	
@@ -179,10 +179,10 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK.
 
 
 <details>
-	<summary> ⬜ 6. Repita o passo 1 para verificar se o Java foi instalado corretamente. </summary>
+	<summary> ⬜ 1.  </summary>
 <p>
 
-🔹 5.1. Na barra de pesquisa digite "var" e aperte Enter ou clique em "Editar as variáveis de ambiente do sistema".
+🔹 1.1. Na barra de pesquisa digite "var" e aperte Enter ou clique em "Editar as variáveis de ambiente do sistema".
   
 📍 Isso abrirá a janela de Propriedades do Sistema.
 
