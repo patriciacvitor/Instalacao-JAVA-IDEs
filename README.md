@@ -256,6 +256,8 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 	
 	E clique em "Next" e em seguida em "Install.
 
+🔹 2.2. Escolha se quer reiniciar agora ("Reboot now") ou reiniar depois ("I want to manually reboot later") e clique em "Finish".
+
 ---
 	
 </p>
