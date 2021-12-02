@@ -187,7 +187,7 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
   
 📍 
 
-🔹 1.2. 
+🔹 1.2. Na tela inicial, clique no botão laranja em "Download x86_64" e novamente no botão laranja "Download" na página seguinte.
 
 📍 
 
