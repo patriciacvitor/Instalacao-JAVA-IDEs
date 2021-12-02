@@ -180,21 +180,45 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 ## :coffee: Instalação do Eclipse
 
 <details>
-	<summary> :izakaya_lantern: 1.  </summary>
+	<summary> :izakaya_lantern: 1. Baixe o instalador do Eclipse.  </summary>
 <p>
 
 🔹 1.1. Entre no site do <a href="https://www.eclipse.org/downloads/" target="_blank"><strong> ECLIPSE </strong></a>
-  
-📍 
 
-🔹 1.2. Na tela inicial, clique no botão laranja em "Download x86_64" e novamente no botão laranja "Download" na página seguinte.
-
-📍 
+🔹 1.2. Na tela inicial, clique no botão laranja "Download x86_64" e novamente no botão laranja "Download" na página seguinte.
 
 ---
 	
 </p>
 </details>
+
+<details>
+	<summary> :izakaya_lantern: 2. Instale o Eclipse.  </summary>
+<p>
+
+🔹 2.1. Abra o instalador e clique na versão que deseja instalar. Eu instalei "Eclipse IDE for Enterprise Java and Web Developers" que tem várias ferramentas para desenvolvimento web.
+
+🔹 2.2. Verifique se o caminho da pasta já está correto e, se não estiver, procure a pasta correta. O caminho deve ser algo como:  C:\Program Files\Java\zulu11.52.13-ca-jdk11.0.13-win_x64
+
+🔹 2.3. Mantenha selecionadas as opções "create start menu entry" e "create desktop shortcut".
+
+🔹 2.4. Clique em Install e aguarde terminar a instalação. 
+
+🔹 2.5. Clique em Launch.
+
+🔹 2.6. Na tela "Eclipse IDE Launch" pedindo para selecionar o workspace. Clique no botão Launch.
+
+---
+	
+</p>
+</details>
+
+
+
+
+---
+
+## :coffee: Instalação do IntelliJ
 
 <details>
 	<summary> :izakaya_lantern: 2.   </summary>
@@ -207,6 +231,12 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 🔹 
 
 📍 
+
+🔹 
+
+🔹 
+
+📍 	
 
 
 
