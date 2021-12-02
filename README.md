@@ -218,33 +218,64 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 
 ---
 
-## :coffee: Instalação do IntelliJ
+## :coffee: Instalação do IntelliJ IDEA
 
 <details>
-	<summary> :izakaya_lantern: 2.   </summary>
+	<summary> :izakaya_lantern: 1. Baixe o instalador do IntelliJ IDEA.  </summary>
 <p>
 
-🔹 2.1. 
+🔹 1.1. Entre no site do <a href="https://www.jetbrains.com/idea/download/#section=windows" target="_blank"><strong> INTELLIJ IDEA </strong></a>
 
-🔹 
-  
-🔹 
-
-📍 
-
-🔹 
-
-🔹 
-
-📍 	
-
-
-
+🔹 1.2. Logo abaixo de "Community", clique no botão ".exe" e, em seguida, no botão "Windows (.exe)".
 
 ---
 	
 </p>
 </details>
+
+<details>
+	<summary> :izakaya_lantern: 2. Instale o IntelliJ IDEA.  </summary>
+<p>
+
+🔹 2.1. Abra o instalador e clique em "Next" até chegar na tela "Installation Options".
+
+🔹 2.2. Na tela "Installation Options" marque as opções:
+	
+	- Create Desktop Shortcut:
+		:ballot_box_with_check: IntelliJ IDEA Community Edition
+	-Update Context Menu:
+		:ballot_box_with_check: Add "Open Folder as Project"
+	- Create Associations:
+		:ballot_box_with_check: .java
+		:ballot_box_with_check: .groovy
+		:ballot_box_with_check: .kt
+		:ballot_box_with_check: .kts
+	- Update PATH Variable (restart needed):
+		:ballot_box_with_check: Add "bin" folder to the PATH
+	
+	E clique em "Next" e em seguida em "Install.
+
+---
+	
+</p>
+</details>
+
+<!-- <details>
+	<summary> :izakaya_lantern: 1.  </summary>
+<p>
+
+🔹 
+
+🔹 
+  
+🔹 
+
+📍 	
+
+---
+	
+</p>
+</details> -->
 
 
   
