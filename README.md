@@ -24,7 +24,7 @@ Guia de instalação de IDEs JAVA
   ⭐ Dê uma Estrela para o repositório (clicando em Star no canto superior direito da tela). <br>
   🔱 Dê Fork no repositório (clicando em Fork no canto superior direito da tela). <br>
   🔗 Compartilhe <a href="https://github.com/patriciacvitor/Instalacao-JAVA-IDEs/" target="_blank"><strong> [ESTE LINK] </strong></a> com quem precisa ver esse conteúdo. <br>
-  🛑 Envie uma mensagem se encontrar algum problema. <br>
+   :email: Envie uma mensagem para mim se encontrar algum problema ou tiver alguma sugestão/comentário. <br>
 </div>
 
 
