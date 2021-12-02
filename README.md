@@ -184,7 +184,7 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 	<summary> :izakaya_lantern: 1. Baixe o instalador do Eclipse.  </summary>
 <p>
 
-🔹 1.1. Entre no site do <a href="https://www.eclipse.org/downloads/" target="_blank"><strong> ECLIPSE </strong></a>
+🔹 1.1. Entre no site do <a href="https://www.eclipse.org/downloads/" target="_blank"><strong> ECLIPSE </strong></a>.
 
 🔹 1.2. Na tela inicial, clique no botão laranja "Download x86_64" e novamente no botão laranja "Download" na página seguinte.
 
@@ -225,7 +225,7 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 	<summary> :izakaya_lantern: 1. Baixe o instalador do IntelliJ IDEA.  </summary>
 <p>
 
-🔹 1.1. Entre no site do <a href="https://www.jetbrains.com/idea/download/#section=windows" target="_blank"><strong> INTELLIJ IDEA </strong></a>
+🔹 1.1. Entre no site do <a href="https://www.jetbrains.com/idea/download/#section=windows" target="_blank"><strong> INTELLIJ IDEA </strong></a>.
 
 🔹 1.2. Logo abaixo de "Community", clique no botão ".exe" e, em seguida, no botão "Windows (.exe)".
 
@@ -254,9 +254,9 @@ Depois clique em "Mover para cima" até que chegue no topo e clique em OK. (Já 
 	- Update PATH Variable (restart needed):
 		:ballot_box_with_check: Add "bin" folder to the PATH
 	
-	E clique em "Next" e em seguida em "Install.
+E clique em "Next" e em seguida em "Install".
 
-🔹 2.2. Escolha se quer reiniciar agora ("Reboot now") ou reiniar depois ("I want to manually reboot later") e clique em "Finish".
+🔹 2.3. Escolha se quer reiniciar agora ("Reboot now") ou reiniar depois ("I want to manually reboot later") e clique em "Finish".
 
 ---
 	
