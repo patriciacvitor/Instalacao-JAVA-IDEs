@@ -20,7 +20,7 @@ Guia de instalação de IDEs JAVA
 <div align="center">
   <h2> :octocat: Contribua se gostar do conteúdo! ⚠️ </h2>
 <!-- 	Este conteúdo foi criado para ajudar quem precisa lembrar o passo a passo de instalação do Java e suas IDEs então, se possível, contribua também: <br><br> -->
-	Este conteúdo foi criado para ajudar então, se possível, contribua também: <br><br>
+	Este conteúdo foi criado com muito carinho para te ajudar a lembrar o passo a passo de instalação do JAVA e suas IDEs então, se possível, contribua também: <br><br>
   ⭐ Dê uma Estrela para o repositório (clicando em Star no canto superior direito da tela). <br>
   🔱 Dê Fork no repositório (clicando em Fork no canto superior direito da tela). <br>
   🔗 Compartilhe <a href="https://github.com/patriciacvitor/Instalacao-JAVA-IDEs/" target="_blank"><strong> [ESTE LINK] </strong></a> com quem precisa ver esse conteúdo. <br>
