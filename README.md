@@ -263,6 +263,29 @@ E clique em "Next" e em seguida em "Install".
 </p>
 </details>
 
+
+
+
+---
+
+## :coffee: Configurando Java no Visual Studio Code
+
+<details>
+	<summary> :izakaya_lantern: 1. Java no VS Code.  </summary>
+<p>
+
+🔹 https://code.visualstudio.com/docs/java/java-tutorial
+
+---
+	
+</p>
+</details>
+
+
+
+
+
+
 <!-- <details>
 	<summary> :izakaya_lantern: 1.  </summary>
 <p>
