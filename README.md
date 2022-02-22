@@ -85,6 +85,8 @@ IDE, Integrated Development Environment ou Ambiente de Desenvolvimento Integrado
 🔹 2.3. Procure por "Java 11 (LTS)" para Windows de acordo com seu sistema operacional ("x86 32-bit ou x86 64-bit).
 
 ⚠️ [Mas como saber se é 32 ou 64bits?]
+	Clique com o botão direito do mouse no botão "Iniciar" do Windows e, em seguida, clique em "Sistema".
+	Isso abrirá o "Sobre" das configurações e, nas Especificações do Dispositivo, em Tipo de Sistema estará definido se o sistema operacional é 32 ou 64 bits.
 
 🔹 2.4. Faça download do arquivo .zip do JDK 11 (LTS).
 	
